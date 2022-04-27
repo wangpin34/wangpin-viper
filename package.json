@@ -1,0 +1,24 @@
+{
+  "name": "@pengson/viper",
+  "version": "0.0.1",
+  "description": "viper is a loader for env variables",
+  "main": "lib/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "environment",
+    "variables",
+    "loader"
+  ],
+  "author": "pengson <guyusay@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:wangpin34/wangpin-viper"
+  }
+}
